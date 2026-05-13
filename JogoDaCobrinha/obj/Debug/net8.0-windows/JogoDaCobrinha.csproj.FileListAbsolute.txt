@@ -1,0 +1,17 @@
+C:\Users\fic\source\repos\JogoDaCobrinha\bin\Debug\net8.0-windows\JogoDaCobrinha.exe
+C:\Users\fic\source\repos\JogoDaCobrinha\bin\Debug\net8.0-windows\JogoDaCobrinha.deps.json
+C:\Users\fic\source\repos\JogoDaCobrinha\bin\Debug\net8.0-windows\JogoDaCobrinha.runtimeconfig.json
+C:\Users\fic\source\repos\JogoDaCobrinha\bin\Debug\net8.0-windows\JogoDaCobrinha.dll
+C:\Users\fic\source\repos\JogoDaCobrinha\bin\Debug\net8.0-windows\JogoDaCobrinha.pdb
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.Form1.resources
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.csproj.GenerateResource.cache
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.AssemblyInfo.cs
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.sourcelink.json
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.dll
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\refint\JogoDaCobrinha.dll
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.pdb
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\JogoDaCobrinha.genruntimeconfig.cache
+C:\Users\fic\source\repos\JogoDaCobrinha\obj\Debug\net8.0-windows\ref\JogoDaCobrinha.dll
